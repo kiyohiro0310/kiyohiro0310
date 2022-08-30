@@ -1,9 +1,5 @@
-# Hi! I am Kiyohiro Kambayashi, fullstack developer!
+# Hi! I'm Kiyohiro Kambayashi.
 
----
-title: My Current Skills
----
+I'm fullstack developer in Australia.
 
-## I'm so interested in modern technology and something new knowledge for me.
-
-Mainly, I upload files of Tafe project and self study.
+These repos are my previous devs and study at Tafe.
