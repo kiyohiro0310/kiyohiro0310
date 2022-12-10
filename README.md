@@ -2,4 +2,4 @@
 
 I'm fullstack developer in Australia.
 
-These repos are my previous devs and study at Tafe.
+These repos are my previous devs and study.
