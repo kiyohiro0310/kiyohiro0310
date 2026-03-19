@@ -1,53 +1,47 @@
-# Hi, I'm Kiyohiro (Kiyo) Kambayashi 👋
+# Kiyohiro (Kiyo) Kambayashi | Full Stack Developer
 
-**Full Stack Developer | AWS Certified Cloud Practitioner | ICT Graduate**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiyohiro-kambayashi-533aa0244/)
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/verification)
 
-[cite_start]I am an experienced Full Stack Developer with over 5 years of experience  [cite_start]delivering scalable, client-focused web applications[cite: 7]. [cite_start]I blend technical proficiency in modern frameworks with a strong foundation in data structures, algorithms, and cloud infrastructure[cite: 7, 8].
-
----
-
-### 🚀 Quick Summary
-* [cite_start]🔭 **Currently:** Developing impactful solutions in high-scale environments ranging from individual projects to professional consulting[cite: 11].
-* [cite_start]🎓 **Education:** Bachelor of Information and Communications Technology from **Western Sydney University**[cite: 10, 73, 74].
-* [cite_start]☁️ **Cloud:** **AWS Certified Cloud Practitioner** (Issued July 2025)[cite: 76, 77].
-* [cite_start]📍 **Location:** Burwood, NSW, Australia[cite: 2].
+Experienced **Full Stack Developer** with 5+ years of experience building scalable, client-focused web applications[cite: 6]. I specialize in modern JavaScript/TypeScript ecosystems, cloud infrastructure, and AI integration[cite: 7, 9]. Recent graduate in ICT from **Western Sydney University**[cite: 10, 74].
 
 ---
 
-### 🛠️ Technical Toolkit
+### 💻 Technical Stack
 
-| Category | Skills |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]JavaScript, TypeScript, Python, PHP, Java, C++, R Studio [cite: 79, 80, 81, 82] |
-| **Frontend** | [cite_start]React, Next.js, Tailwind CSS, Flutter, Vite, Formik, Yup [cite: 22, 35, 60, 82] |
-| **Backend** | [cite_start]Node.js, Express, Python (Data Processing & Cron Jobs) [cite: 25, 26, 36, 82] |
-| **Database** | [cite_start]MongoDB, MySQL, Red Hat (UAT Admin) [cite: 22, 25, 39, 60] |
-| **DevOps & Cloud** | [cite_start]AWS (Lambda, API Gateway, S3), Docker, CI/CD Pipelines, Vercel [cite: 17, 25, 64, 76] |
-| **Tools** | [cite_start]Figma, JIRA, GitHub, Notion, Tableau, Excalidraw [cite: 26, 29, 37, 41, 52] |
+| **Languages** | TypeScript, JavaScript, Python, PHP, C++, Java [cite: 79, 81, 82] |
+| **Frontend** | React, Next.js, Tailwind CSS, Flutter, Vite [cite: 35, 60, 82] |
+| **Backend** | Node.js, NestJS, Express, Python (FastAPI/Flask) [cite: 36, 82] |
+| **Infrastructure** | AWS (Lambda, API Gateway, S3), Docker, CI/CD, Red Hat [cite: 17, 25, 76] |
+| **Databases** | MongoDB, MySQL, PostgreSQL [cite: 22, 39, 66] |
 
 ---
 
-### 📈 Key Professional Highlights
+### 🚀 Featured Professional Work
 
-#### **Full Stack Developer Assistant | [cite_start]PGx - Western Sydney University** [cite: 13]
-* **AI Chat Application (MetaBeing):** Enhanced a chatbot for **SXSW 2025**, optimizing API workloads and fixing critical Web Speech API issues for Chrome/Safari[cite: 16, 17, 18].
-* [cite_start]**DevOps & Automation:** Administered Red Hat UAT servers, managed Docker containers, and automated CI/CD pipelines and Python-based data workflows for Tableau[cite: 25, 26, 27].
-* [cite_start]**Indigenous Knowledge Sharing:** Built the UI for the "First Peoples Walk" website to support cultural knowledge across campuses[cite: 19, 20].
+#### **AI & Modern Web Architecture**
+* **AI Chatbot (MetaBeing):** Enhanced a production AI chatbot showcased at **SXSW 2025**. Optimized API workloads and integrated secure AWS Lambda/API Gateway flows[cite: 16, 17, 18].
+* **Work Placement MIS:** Developed a centralized platform for university-wide job placements using **React, Formik, and Node.js**, managing complex relational data in MySQL[cite: 32, 35, 36, 39].
 
-#### **Web Application Developer Intern | [cite_start]WPMIS - WSU** [cite: 30, 32]
-* [cite_start]Integrated React components with a Node.js backend for a high-traffic Work Placement Management Information System[cite: 34, 35, 36].
-* [cite_start]Optimized relational databases using MySQL to handle critical job placement data[cite: 39, 40].
-
-#### **Casual Full Stack Developer | [cite_start]SK Group** [cite: 42]
-* Developed a custom car-filtering application using **Next.js** and **MongoDB**, achieving a high-quality user experience through Server-Side Rendering (SSR)[cite: 60, 61].
-* [cite_start]Managed the full lifecycle of product development, from Figma prototyping and budget estimation to Vercel deployment[cite: 51, 52, 63, 64].
+#### **DevOps & System Engineering**
+* **CI/CD Automation:** Managed UAT environments on **Red Hat**, utilizing **Docker** and YAML scripting to automate deployment pipelines[cite: 25].
+* **Data Engineering:** Developed Python automation scripts to fetch and transform data for **Tableau** visualization, supporting business intelligence workflows[cite: 26, 27].
 
 ---
 
-### 📫 Let's Connect!
-* [cite_start]**Email:** [kiyohiro.0310@gmail.com](mailto:kiyohiro.0310@gmail.com) [cite: 3]
-* [cite_start]**LinkedIn:** [linkedin.com/in/kiyohiro-kambayashi-533aa0244/](https://www.linkedin.com/in/kiyohiro-kambayashi-533aa0244/) [cite: 5]
-* [cite_start]**Mobile:** 0406 262 878 [cite: 2]
+### 🛠️ Current Projects & Learning
+* 🏗️ **Building:** A travel application focused on UX and high-performance backend architecture.
+* 🎓 **Refining:** Deepening knowledge in **NestJS** and advanced **Microservices** patterns.
+* ☁️ **Cloud:** Maintaining **AWS Certified Cloud Practitioner** status (Issued July 2025)[cite: 76, 77].
 
 ---
-[cite_start]*"Driving impactful outcomes through technical excellence and a client-centric mindset."* [cite: 11]
+
+### 📫 Contact & Socials
+* **Location:** Sydney, NSW, Australia [cite: 2]
+* **Email:** [kiyohiro.0310@gmail.com](mailto:kiyohiro.0310@gmail.com) [cite: 3]
+* **Portfolio:** [Visit my LinkedIn Profile](https://www.linkedin.com/in/kiyohiro-kambayashi-533aa0244/) [cite: 5]
+
+---
+*“Technical excellence driven by a client-centric mindset.”* [cite: 11]
