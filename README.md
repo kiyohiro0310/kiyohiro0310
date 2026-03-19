@@ -1,4 +1,4 @@
-# Kiyohiro Kambayashi | Full Stack Developer
+# Kiyohiro (Kiyo) Kambayashi | Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiyohiro-kambayashi-533aa0244/)
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/verification)
